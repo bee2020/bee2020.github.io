@@ -1,5 +1,10 @@
 <svg width="949" height="256" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 949 256" version="1.1">
-
+ <defs>
+  <linearGradient y2="0.78559" x2="0.47266" y1="0.35981" x1="0.48828" id="svg_12">
+   <stop offset="0" stop-color="#ffa100"/>
+   <stop offset="1" stop-color="#005eff"/>
+  </linearGradient>
+ </defs>
  <g>
   <title>background</title>
   <rect fill="none" id="canvas_background" height="521" width="1107" y="-1" x="-1"/>
@@ -9,6 +14,6 @@
   <path id="svg_1" d="m110.85125,128l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#2366d1"/>
   <path id="svg_2" d="m110.85125,64l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#609dff"/>
   <path id="svg_3" d="m110.85125,0l110.85125,64l-110.85125,64l-110.85125,-64l110.85125,-64z" fill="#a4c7ff"/>
-  <text opacity="0.72" stroke="#000" transform="matrix(6.076995982423796,0,0,7.886337863991942,-1534.4602536408702,-442.43379747288503) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="80.63994" x="300.5839" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">BEE 2020</text>
+  <text opacity="0.7" stroke="#000" transform="matrix(6.076995982423796,0,0,7.886337863991942,-1534.4602536408702,-442.43379747288503) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="80.63994" x="300.5839" stroke-opacity="null" stroke-width="0" fill="url(#svg_12)">BEE 2020</text>
  </g>
 </svg>
